@@ -1,0 +1,3 @@
+rootProject.name = 'stwitter-kmp'
+
+include ':app'

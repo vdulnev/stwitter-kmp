@@ -1,0 +1,8 @@
+/app/build/
+/app/app.iml
+/app/stwitter-kmp.app.commonMain.iml
+/app/stwitter-kmp.app.commonTest.iml
+/app/stwitter-kmp.app.iosMain.iml
+/app/stwitter-kmp.app.iosTest.iml
+/.gradle/
+/.idea/
